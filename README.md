@@ -1,84 +1,117 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5DE5,50:F15BB5,100:00BBF9&height=200&section=header&text=Romaissae%20Oubellouche&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Future%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+# SARA
+### Aspiring Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=F15BB5&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Learning+Web+Development+%F0%9F%92%BB;Building+my+future+step+by+step+%F0%9F%9A%80" />
+Building, learning, and turning ideas into code.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-9B7AE8?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 🌸 About Me
+### ABOUT ME
 
-Hi! I'm **Romaissae**, a passionate beginner web developer.
+I'm an IT student interested in software engineering and web development.
 
-- 🎓 Learning Web Development
-- 💻 Interested in Front-End Development
-- 🌱 Currently learning React & JavaScript
-- 🚀 Improving my skills every day
-- ✨ Love creating beautiful websites
+- Currently developing my frontend skills.
+- Learning JavaScript and responsive design.
+- Exploring backend development.
+- Interested in building practical applications.
 
-<br clear="right"/>
+**Current goal:** Become a Full-Stack Developer.
+
+</td>
+<td width="45%" valign="top">
+
+### CURRENT FOCUS
+
+- Frontend Development
+- JavaScript Fundamentals
+- Responsive Web Design
+- Problem Solving
+- Backend Foundations
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💜 My Tech Stack
+### TECHNICAL SKILLS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode&theme=dark" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+**Programming & Database**
+
+<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-### 🚀 My GitHub Stats
+### GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=romaissaeoube&show_icons=true&theme=midnight-purple&hide_border=true&title_color=F15BB5&icon_color=9B5DE5"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=9B72CF&text_color=C9C3D9&ring_color=B794F4" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaissaeoube&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=C9C3D9" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=romaissaeoube&theme=midnight-purple&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=B794F4&fire=9B72CF&currStreakLabel=B794F4" />
 
 </div>
 
 ---
 
-### 🌷 My Projects
+### CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-| Project | Description | Technology |
-|---|---|---|
-| Gestion Patients | Patient management application | React |
-| My Web Projects | Web development exercises | HTML, CSS, JS |
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=B794F4&line=9B72CF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-### 📫 Connect With Me
+### FEATURED PROJECTS
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/romaissae-oub">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:oubelloucheromaissae@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-F15BB5?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+| Project | Description | Stack |
+|:---|:---|:---|
+| Portfolio Website | Personal developer portfolio | HTML · CSS |
+| Frontend Projects | Web development practice | HTML · CSS |
+| More Coming Soon | Currently building new projects | JavaScript |
 
 </div>
 
+---
+
 <div align="center">
 
-### ✨ "Dream big, code bigger!" ✨
+### LET'S CONNECT
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,50:9B5DE5,100:00BBF9&height=100&section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-9B72CF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+*Continuous learning. Consistent building. Better every day.*
 
 </div>
