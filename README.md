@@ -1,166 +1,70 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B2E,50:5425A8,100:A970FF&height=200&section=header&text=SARA&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=16" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:10071B,50:54268A,100:AD7BFF&text=SARA&fontColor=FFFFFF&fontSize=75&fontAlignY=45&desc=IT%20STUDENT%20%2F%20ASPIRING%20DEVELOPER&descSize=15&descAlignY=68&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=B98AFF&center=true&vCenter=true&width=550&lines=Curious+mind.+Creative+thinking.;Learning+to+build+the+web.;One+project+at+a+time." />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=B98AFF&center=true&vCenter=true&width=500&lines=Curiosity+is+my+starting+point.;Logic+is+my+favorite+tool.;Building+my+own+path." />
 
 </div>
 
----
+## `01` — WHO AM I?
 
-<table>
-<tr>
-<td width="58%" valign="top">
+I'm Sara, an IT student exploring the world of software development.
 
-## ◈ WHO AM I?
+I enjoy understanding systems, solving problems, and discovering how technology works behind the scenes.
 
-I'm Sara, an IT student passionate about technology, programming, and web development.
+I believe in independent thinking, continuous learning, and building real things instead of just collecting knowledge.
 
-I enjoy exploring ideas, understanding how things work, and challenging myself to learn new skills.
+> Think independently. Learn deeply. Create intentionally.
 
-- Focused on web development.
-- Interested in software engineering.
-- Independent and curious learner.
-- Always improving my problem-solving skills.
+## `02` — TECHNICAL ARSENAL
 
-**My mindset:** Think independently. Learn continuously. Build confidently.
+<div align="center">
 
-</td>
-<td width="42%" valign="top">
+<img src="https://skillicons.dev/icons?i=html,css,c,java,git,github,vscode&theme=dark" />
 
-## ◈ QUICK PROFILE
+</div>
+
+| Category | Technologies |
+|:--|:--|
+| Frontend | HTML5, CSS3, Flexbox, Grid |
+| Programming | C, Java fundamentals |
+| Database | SQL Server, SQL |
+| Tools | Git, GitHub, VS Code |
+| Exploring | JavaScript, PHP |
+
+## `03` — CURRENT DIRECTION
 
 ```text
-NAME       Sara
-FIELD      Information Technology
-ROLE       IT Student
-FOCUS      Web Development
-GOAL       Full-Stack Developer
-MINDSET    Growth & Curiosity
+01 / MASTERING       HTML + CSS
+02 / STRENGTHENING   Programming + SQL
+03 / EXPLORING       JavaScript
+04 / BUILDING        Real-world projects
+05 / TARGET          Full-Stack Development
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-## ◈ TECH STACK
+## `04` — GITHUB INSIGHTS
 
 <div align="center">
 
-### PROGRAMMING
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=10071B&title_color=BD91FF&icon_color=9B5CFF&text_color=E4D8F5"/>
 
-<img src="https://skillicons.dev/icons?i=c,java&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=10071B&title_color=BD91FF&text_color=E4D8F5"/>
 
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-
-### DATABASE
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=10071B&color=BD91FF&line=9B5CFF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
----
+## `05` — OUTSIDE THE TERMINAL
 
-## ◈ LEARNING JOURNEY
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**CURRENT KNOWLEDGE**
-
-- HTML5
-- CSS3
-- Flexbox & Grid
-- C fundamentals
-- Java fundamentals
-- SQL Server
-
-</td>
-<td width="50%" valign="top">
-
-**NEXT MILESTONES**
-
-- JavaScript
-- Advanced CSS
-- Responsive development
-- PHP & Backend
-- Full-Stack applications
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=100B1C&title_color=C49AFF&icon_color=9B5CFF&text_color=E5D9F7"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=100B1C&title_color=C49AFF&text_color=E5D9F7"/>
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=100B1C&ring=B77AFF&fire=9B5CFF&currStreakLabel=C49AFF&sideLabels=C49AFF&dates=AAA0BC&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
----
-
-## ◈ CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=100B1C&color=C49AFF&line=9B5CFF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## ◈ FEATURED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&hide_border=true&bg_color=100B1C&title_color=C49AFF&text_color=E5D9F7&icon_color=9B5CFF"/>
-</a>
-
-</div>
-
----
-
-## ◈ BEYOND TECHNOLOGY
-
-**Interests**
-
-- Psychology & human behavior
-- Languages & communication
-- Technology & innovation
-- Exploring different perspectives
+Psychology, languages, human behavior, exploring different perspectives, and understanding the world beyond technology.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B2E,50:5425A8,100:A970FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AD7BFF,50:54268A,100:10071B&height=110&section=footer"/>
 
-**THINK DEEPER. BUILD BETTER. KEEP GROWING.**
-
-<sub>Designed with passion · Powered by curiosity</sub>
+**SARA.DEV — STILL UNDER CONSTRUCTION. ALWAYS EVOLVING.**
 
 </div>
