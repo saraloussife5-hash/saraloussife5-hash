@@ -1,15 +1,13 @@
 
 <div align="center">
 
-# SARA
-### IT Student | Aspiring Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B2E,50:5425A8,100:A970FF&height=200&section=header&text=SARA&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=16" width="100%"/>
 
-*Curious mind. Independent learner. Problem solver.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=B98AFF&center=true&vCenter=true&width=550&lines=Curious+mind.+Creative+thinking.;Learning+to+build+the+web.;One+project+at+a+time." />
 
-Building my skills, exploring technology, and turning ideas into reality.
+<br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Web%20Development-9B72CF?style=flat-square"/>
-<img src="https://img.shields.io/badge/LEARNING-Always-9B72CF?style=flat-square"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -17,35 +15,34 @@ Building my skills, exploring technology, and turning ideas into reality.
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-## ABOUT ME
+## ◈ WHO AM I?
 
-I'm an IT student with a strong interest in technology, programming, and web development.
+I'm Sara, an IT student passionate about technology, programming, and web development.
 
-I'm naturally curious and analytical. I enjoy understanding how things work rather than simply following instructions.
+I enjoy exploring ideas, understanding how things work, and challenging myself to learn new skills.
 
-- Independent and self-motivated learner.
-- Interested in solving problems.
-- Always exploring new ideas.
-- Prefer learning through practical projects.
-- Focused on building a future in software development.
+- Focused on web development.
+- Interested in software engineering.
+- Independent and curious learner.
+- Always improving my problem-solving skills.
 
-**My philosophy:** Understand first. Build second. Improve constantly.
+**My mindset:** Think independently. Learn continuously. Build confidently.
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-## DEVELOPER PROFILE
+## ◈ QUICK PROFILE
 
-| | |
-|---|---|
-| Field | Information Technology |
-| Direction | Full-Stack Development |
-| Learning style | Self-directed |
-| Approach | Analytical |
-| Current focus | Web Development |
-| Goal | Software Development |
+```text
+NAME       Sara
+FIELD      Information Technology
+ROLE       IT Student
+FOCUS      Web Development
+GOAL       Full-Stack Developer
+MINDSET    Growth & Curiosity
+```
 
 </td>
 </tr>
@@ -53,102 +50,117 @@ I'm naturally curious and analytical. I enjoy understanding how things work rath
 
 ---
 
-## TECHNICAL SKILLS
+## ◈ TECH STACK
 
-### Programming Languages
+<div align="center">
 
-<div>
-<img src="https://skillicons.dev/icons?i=c,java" />
+### PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=c,java&theme=dark" />
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+
 </div>
 
-- C — Programming fundamentals
-- Java — Fundamentals and basic programming
+---
 
-### Frontend Development
+## ◈ LEARNING JOURNEY
 
-<div>
-<img src="https://skillicons.dev/icons?i=html,css" />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CURRENT KNOWLEDGE**
 
 - HTML5
 - CSS3
-- Flexbox
-- CSS Grid
-- Responsive Design (currently improving)
-
-### Database
-
-<div>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</div>
-
+- Flexbox & Grid
+- C fundamentals
+- Java fundamentals
 - SQL Server
-- SQL fundamentals
-- CRUD operations
-- Queries, filtering and aggregation
 
-### Tools & Environment
+</td>
+<td width="50%" valign="top">
 
-<div>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-</div>
+**NEXT MILESTONES**
 
-- Visual Studio Code
-- SQL Server Management Studio
-- Git & GitHub (development workflow)
+- JavaScript
+- Advanced CSS
+- Responsive development
+- PHP & Backend
+- Full-Stack applications
 
----
-
-## CURRENT LEARNING JOURNEY
-
-| Technology | Focus |
-|---|---|
-| JavaScript | Next learning milestone |
-| Responsive CSS | Improving |
-| Java | Strengthening fundamentals |
-| SQL | Practicing queries |
-| Backend | Future learning goal |
-| Full-Stack | Long-term direction |
+</td>
+</tr>
+</table>
 
 ---
 
-## GITHUB ANALYTICS
+## ◈ GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=9B72CF&text_color=E0D7F5"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=100B1C&title_color=C49AFF&icon_color=9B5CFF&text_color=E5D9F7"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=E0D7F5"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=100B1C&title_color=C49AFF&text_color=E5D9F7"/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=B794F4&line=9B72CF&point=FFFFFF&area=true&hide_border=true"/>
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=100B1C&ring=B77AFF&fire=9B5CFF&currStreakLabel=C49AFF&sideLabels=C49AFF&dates=AAA0BC&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
 ---
 
-## SELECTED PROJECTS
+## ◈ CONTRIBUTION ACTIVITY
 
-*Projects built through practice, curiosity, and experimentation.*
+<div align="center">
 
-<!-- Add your real project repository links here -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=100B1C&color=C49AFF&line=9B5CFF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
 
 ---
 
-## BEYOND THE CODE
+## ◈ FEATURED PROJECTS
 
-- Exploring different cultures and perspectives.
-- Learning languages and improving communication.
-- Interested in psychology, human behavior and critical thinking.
-- Enjoy discovering how things work.
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&hide_border=true&bg_color=100B1C&title_color=C49AFF&text_color=E5D9F7&icon_color=9B5CFF"/>
+</a>
+
+</div>
+
+---
+
+## ◈ BEYOND TECHNOLOGY
+
+**Interests**
+
+- Psychology & human behavior
+- Languages & communication
+- Technology & innovation
+- Exploring different perspectives
 
 ---
 
 <div align="center">
 
-### THINK. LEARN. BUILD. REPEAT.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B2E,50:5425A8,100:A970FF&height=120&section=footer"/>
 
-*Not aiming to know everything. Aiming to understand more every day.*
+**THINK DEEPER. BUILD BETTER. KEEP GROWING.**
 
-<img src="https://img.shields.io/badge/Made%20with-Passion-9B72CF?style=flat-square"/>
+<sub>Designed with passion · Powered by curiosity</sub>
 
 </div>
