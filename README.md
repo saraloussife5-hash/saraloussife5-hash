@@ -47,11 +47,9 @@ I believe in independent thinking, continuous learning, and building real things
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=10071B&title_color=BD91FF&icon_color=9B5CFF&text_color=E4D8F5"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" width="48%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=10071B&title_color=BD91FF&text_color=E4D8F5"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=10071B&color=BD91FF&line=9B5CFF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true" width="48%"/>
 
 </div>
 
