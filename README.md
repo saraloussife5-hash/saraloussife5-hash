@@ -43,16 +43,29 @@ I believe in independent thinking, continuous learning, and building real things
 05 / TARGET          Full-Stack Development
 ```
 
-## `04` — GITHUB INSIGHTS
+## 💜 GITHUB INSIGHTS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" width="48%"/>
+| 💻 TECH JOURNEY | 📚 CURRENT FOCUS |
+|:---:|:---:|
+| **IT Student** | **Web Development** |
+| HTML · CSS · SQL | Java · JavaScript (Next) |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true" width="48%"/>
+| 🎯 MY GOAL | 🌱 MY MINDSET |
+|:---:|:---:|
+| Full-Stack Developer | Learn · Build · Improve |
 
 </div>
 
+### `// CURRENT STATUS`
+
+- `████████░░` HTML & CSS
+- `██████░░░░` SQL & Databases
+- `███░░░░░░░` Java Fundamentals
+- `░░░░░░░░░░` JavaScript — Next Mission
+
+> *Building my skills one commit at a time.* 💜
 ## `05` — OUTSIDE THE TERMINAL
 
 Psychology, languages, human behavior, exploring different perspectives, and understanding the world beyond technology.
